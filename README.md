@@ -1,2 +1,2 @@
 # HTML-Receptet
-HTML basics (Recipe page exercise)
+HTML basics (recipe page exercise)
